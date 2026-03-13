@@ -5,7 +5,7 @@
 
 Telegram-bot @test1zabornaver_bot
 
-https://github.com/pw177/ia_assist/blob/main/Screenshot%202026-03-12%20110259.jpg
+Скриншот диалога: https://github.com/pw177/ia_assist/blob/main/Screenshot%202026-03-12%20110259.jpg
 
 Ассистент способен:
 Вести осмысленный диалог на естественном языке
