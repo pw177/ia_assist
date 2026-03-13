@@ -8,9 +8,7 @@ Telegram-bot @test1zabornaver_bot
 
 **ИИ-ассистент для компании по изготовлению и установке заборов** — это интеллектуальная система на базе больших языковых моделей, предназначенная для автоматизации первичной коммуникации с потенциальными и существующими клиентами.
 
-![Скриншот диалога]([https://github.com/pw177/ia_assist/blob/main/Screenshot 2026-03-12 110259.jpg.jpg](https://github.com/pw177/ia_assist/issues/1#issue-4069840329))
-
-
+![Image](https://github.com/user-attachments/assets/f8b77ecb-6a8a-452b-ab3e-ab2c9bcd5cf3)
 
 Ассистент способен:
 - Вести осмысленный диалог на естественном языке
