@@ -89,6 +89,3 @@ Telegram-bot @test1zabornaver_bot
 | **Google Sheets** | API v4 | Хранение и обновление базы знаний (прайсы, акции) |
 | **Telegram Bot API** | Webhook | Уведомления менеджеров, эскалация сложных запросов |
 
-
-*Документ подготовлен для внутренней команды проекта. Версия: 1.2 | Последнее обновление: Март 2026*  
-*Контакты: tech@zaborprofi.example | @project_manager_telegram*
